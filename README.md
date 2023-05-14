@@ -1,17 +1,41 @@
+
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <h1 align="center">Hi 👋, I'm Deepak K</h1>
 <h3 align="center">A Self taught full-stack developer from India</h3>
 
-- 🌱 I’m currently learning **React, Redux**
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!--h2 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Confusion is part of Programming</h2></summary>
+  </ul>
+</div>
+
+
+<!--Intro start-->
+- 🔭 I’m currently working on **React, Redux, Dotnet, SQL Server**
+
+- 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
 
 - 💬 Ask me about **React, Redux, Dotnet, SQL**
 
 - 📫 How to reach me **deepakajay77@gmail.com**
 
-- ⚡ Fun fact **turning lines of code into digital magic.**
+- ⚡ **turning lines of code into digital magic.**
+
+<!--- snake -->
+<div align="center">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/deepak-k-86a056199/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/deepak-k-86a056199/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/deepak-k-86a056199/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/deepak-k-86a056199/" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/deepakajay77/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/deepakajay77/" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/deepakajay77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="deepakajay77" height="30" width="40" /></a>
 </p>

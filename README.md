@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm Deepak K</h1>
 <h3 align="center">A Self taught full-stack developer from India</h3>
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px">
+<!-- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> -->
 
 
 <!--horizontal divider(gradiant)-->
@@ -19,7 +19,7 @@
 
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
-
+<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 <!--Intro start-->
 - 🔭 I’m currently working on **React, Redux, Dotnet, SQL Server**
 

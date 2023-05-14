@@ -3,7 +3,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h1 align="center">Hi 👋, I'm DEEPAK K</h1>
-<h3 align="center">A Self Taught Full-Stack Developer From India</h3>
+<h3 align="center">A PASSIONATE DEVELOPER</h3>
 <!-- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> -->
 
 

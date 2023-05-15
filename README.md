@@ -48,4 +48,4 @@
 <a href="https://auth.geeksforgeeks.org/user/deepakajay77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="deepakajay77" height="30" width="40" /></a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=deepakajay&show_icons=true&locale=en&layout=compact" alt="deepakajay" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=deepakajay&show_icons=true&locale=en&layout=compact" alt="deepakajay" /></p>

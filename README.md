@@ -20,7 +20,7 @@
 
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
-<picture> <img align="right" src="https://raw.githubusercontent.com/0xAbdulKhalid/0xAbdulKhalid/main/assets/mdImages/about_me.gif" width = 250px></picture>
+
 <!--Intro start-->
 - 🔭 I’m currently working on **React, Redux, Dotnet, SQL Server**
 

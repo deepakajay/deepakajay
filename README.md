@@ -26,7 +26,7 @@
 
 - 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
 
-- 💬 Ask me about **React, Redux, Dotnet, SQL**
+- 💬 Ask me about **React, Redux, .Net, SQL**
 
 - 📫 How to reach me **deepakajay77@gmail.com**
 

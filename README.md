@@ -22,7 +22,7 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **React, Redux, Dotnet, SQL Server**
+- 🔭 I’m currently working on **React, Redux, .Net, SQL Server**
 
 - 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
 
